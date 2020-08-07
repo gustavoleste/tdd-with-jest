@@ -1,0 +1,19 @@
+{
+  "name": "tdd-with-jest",
+  "version": "1.0.0",
+  "description": "tdd example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --collectCoverage"
+  },
+  "keywords": [
+    "tdd",
+    "jest",
+    "dragon ball"
+  ],
+  "author": "gustavo leste",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
